@@ -1,5 +1,8 @@
 # awesome-svelte
 
+## UI Frameworks
+- [skeleton ui](https://www.skeleton.dev/) The UI toolkit for Svelte and Tailwind
+- 
 ## Images
 -[Unpic](https://unpic.pics/img/svelte/) Unpic is a collection of tools for working with images on the web.
 
